@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+logs/
+.idea/
+__pycache__/
+*.pyc
+target/
+dbt_packages/
