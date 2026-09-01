@@ -6,6 +6,10 @@ sources:
     schema: public
     tables:
       - name: actor
+        description: 'info about actor'
+        columns:
+          - name: actor_id
+            description: 'actor id primary key for this table'
       - name: address
       - name: category
       - name: city
