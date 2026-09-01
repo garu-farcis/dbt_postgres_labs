@@ -1,0 +1,3 @@
+{
+    "dbt.dbtPythonPathOverride": "/Users/prse/vscode/dbt-venv/bin/python3"
+}
